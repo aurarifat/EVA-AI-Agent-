@@ -87,12 +87,12 @@ jobs:
 
           echo "SUCCESS: Temporary debug keystore is present."
 
-      - name: Build debug APK
+      - name: Build the debug APK
         run: |
           echo "=== Building Debug APK ==="
           gradle :app:assembleDebug --stacktrace --no-daemon
 
-      - name: Verify debug APK
+      - name: Verify the APK
         run: |
           echo "=== Verifying Debug APK Output ==="
           EXPECTED_APK="app/build/outputs/apk/debug/app-debug.apk"
