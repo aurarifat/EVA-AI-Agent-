@@ -1,0 +1,6 @@
+{
+  "name": "EVA AI",
+  "description": "Autonomous AI assistant that chats naturally and controls Android phone & Infinix Xpad 20 tablet using screen reading and accessibility automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

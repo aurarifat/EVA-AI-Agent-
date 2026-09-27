@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EVA AI</string>
+    <string name="accessibility_service_description">EVA AI uses Accessibility Services to inspect screen elements and execute automated taps, scrolls, text inputs, and navigation actions strictly when you command it to perform a task.</string>
+    <string name="overlay_service_description">EVA AI Floating Assistant orb for fast on-screen access and device task execution.</string>
+    <string name="notification_channel_name">EVA AI Active Status</string>
+    <string name="notification_channel_desc">Shows ongoing transparency status when EVA AI is running tasks or floating overlay</string>
+</resources>
